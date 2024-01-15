@@ -7,7 +7,7 @@
 }
 
 .a-pagination {
-  position: 5px;
+  position: absolute;
   top: 8px;
   right: 50%;
   transform: translateX(50%);
