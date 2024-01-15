@@ -7,10 +7,10 @@
 }
 
 .a-pagination {
-  position: absolute;
+  position: 5px;
   top: 8px;
   right: 50%;
-  transform: translateX(100%);
+  transform: translateX(50%);
 }
 
 .vvp-orders-table--heading-top {
