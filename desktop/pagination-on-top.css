@@ -11,6 +11,8 @@
   top: 8px;
   right: 50%;
   transform: translateX(50%);
+  height: auto;
+  width: auto;
 }
 
 .vvp-orders-table--heading-top {
