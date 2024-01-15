@@ -10,9 +10,9 @@
   position: absolute;
   top: 8px;
   right: 50%;
-  transform: translateX(50%);
+  transform: translateX(100%);
 }
 
 .vvp-orders-table--heading-top {
-  margin-top: 20px !important;
+  margin-top: 35px !important;
 }
